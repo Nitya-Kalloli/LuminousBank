@@ -30,4 +30,3 @@ const DoughnutChart = ({accounts}:DoughnutChartProps) => {
 }
 
 export default DoughnutChart
-// 1.3
